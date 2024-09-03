@@ -56,6 +56,3 @@ This Chrome extension allows users to bookmark specific timestamps in YouTube vi
 - **`utils.js`**:
   - Provides utility functions, like getting the active tab's URL.
 
-## License
-
-This project is licensed under the MIT License.
